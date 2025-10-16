@@ -3,6 +3,7 @@
 # and Command Line workshop. 
 
 NAME="Audrey" # Change This Variable to Your Name, pretend to have coded a button
+MAJOR= "HCDE"
 
 validate_name() {
     if [ "$NAME" = "HELLO WORLD" ]; then
